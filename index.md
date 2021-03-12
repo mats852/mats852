@@ -1,1 +1,0 @@
-# Hello there :wave:
