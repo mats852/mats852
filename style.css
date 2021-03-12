@@ -1,0 +1,37 @@
+html, body {
+    font-size: 10px;
+    background: #0e0e0e;
+    color: #FFF5EE;
+    font-family: "Iosevka", "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    min-width: 30rem;
+}
+
+.pre { white-space: pre; }
+
+.container {
+    max-width: 60rem;
+    width: calc(100% - 4rem);
+    margin: auto;
+    padding: 0 2rem;
+}
+
+a {
+    color: #3EE77B;
+}
+
+h3, p, td, li {
+    font-size: 1.4rem;
+}
+
+td {
+    vertical-align: text-top;
+}
+
+h3, b {
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+td:first-child {
+    padding-right: 1.5rem;
+}
